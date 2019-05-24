@@ -8,6 +8,8 @@ Unnamed - Means that the name displayed is the actual original name of the scrip
 
 Filtered - Means that the place content was modified, most likely some content was removed.
 
+Dead - Means that the place cannot be opened due to the fact that I: Tried to generate so many parts the place takes an undefined amount of time to load, tried to break the engine and did, too much data being loaded at once causes the program to crash or computer not strong enough to handle the file.
+
 ### Scripts
 Unnamed - Means that the name displayed is the actual original name of the script.
 
@@ -17,3 +19,4 @@ Modified - Code was not made from scratch and was instead modified, most likely 
 
 Team - Code was being worked on by more than one person, most likely a team rather than a community.
 
+[aaaaaaaaaaaaaaaaaaaaa.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/aaaaaaaaaaaaaaaaaaaaa.rbxl) | Unnamed, Dead
