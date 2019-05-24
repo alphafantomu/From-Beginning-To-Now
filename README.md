@@ -1,5 +1,5 @@
 # From-Beginning-To-Now
-This repository will include all the rbx place files, all my scripts converted to a .lua format, and possibly will include some .html, .css, .js, .json files etc. This will likely miss some of my projects that either got obsolete from existence or has been lost through a website long ago (such as Stypi). 
+This repository will attempt to include all the code I've ever worked on from as far as I can.
 
 ## Notice
 Due to fear of dangerous code that is probably somewhere on my computer that I coded, there will be some tags attached to some of the files.
