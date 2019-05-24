@@ -4,16 +4,16 @@ This repository will include all the rbx place files, all my scripts converted t
 ## Notice
 Due to fear of dangerous code that is probably somewhere on my computer that I coded, there will be some tags attached to some of the files.
 ### Places
-<Unnamed> - Means that the name displayed is the actual original name of the script.
+Unnamed - Means that the name displayed is the actual original name of the script.
 
-<Filtered> - Means that the place content was modified, most likely some content was removed.
+Filtered - Means that the place content was modified, most likely some content was removed.
 
 ### Scripts
-<Unnamed> - Means that the name displayed is the actual original name of the script.
+Unnamed - Means that the name displayed is the actual original name of the script.
 
-<Filtered> - Means that the code content was modified, most likely removal of past databases and apis that are no longer active.
+Filtered - Means that the code content was modified, most likely removal of past databases and apis that are no longer active.
 
-<Modified> - Code was not made from scratch and was instead modified, most likely used as theoretical testing purposes or personal use.
+Modified - Code was not made from scratch and was instead modified, most likely used as theoretical testing purposes or personal use.
 
-<Team> - Code was being worked on by more than one person, most likely a team rather than a community.
+Team - Code was being worked on by more than one person, most likely a team rather than a community.
 
