@@ -41,5 +41,10 @@ Link | Tags | Date Created | Description
 
 [BaseplateIMGTEST.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/BaseplateIMGTEST.rbxl) | Dead | Tuesday, June 19, 2018 7:18:21 AM | The place literally was unable to load once I opened it, no idea what kind of content but I assume I tried to load an image clear 500,000 pixels or more into seperate instances, the engine apparently can't handle that, oof.
 
+[BaseplateTETEtETETE](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/BaseplateTETEtETETE_Modified.rbxl) | Filtered , Unnamed | Friday, June 22, 2018, 10:43:46 PM | Place used as a workspace of a project intended as a cheat script for a game. UI is inspired by Barry Allen's new tech suit after returning from the Speed Force.
+
+[ImageToPixel.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/ImageToPixel.rbxl) | Unnamed | Wednesday, April 11, 2018, 12:52:05 PM| Place was used as a test to be able to convert the data retrieved from an image on the web and convert it into pixel objects to redisplay the image.
+
+
 
 
