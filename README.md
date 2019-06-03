@@ -78,3 +78,31 @@ Link | Tags | Date Created | Description
 [visit.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/visit.rbxl) | Saturday, April 28, 2018, 11:50:02 PM | Unnamed | Place file is way too big.
 
 [Z2 Development.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/Z2%20Development_Modified.rbxl) | Tuesday, July 10, 2018, 7:27:48 AM | Unnamed, Filtered | Has server to client connection for exploits, uhhh. Also has gif loading, some cheat scripts, incomplete general cheat called Z2, standing for Zero Two from the anime, Darling in the Franxx. All past server-http urls, encryptions, passwords were removed.
+
+[Admin.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/Admin_Modified.rbxl) | Monday, January 15, 2018, 2:58:18 AM | Unnamed, Filtered | Has Instance to XML source code, an abandoned admin script for open source game development and has encryption methods.
+
+[alphaLibrary.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/alphaLibrary.rbxl) | Thursday, August 3, 2017, 10:33:49 PM | Unnamed | Has the beginnings of my alphaLibrary and the plugin for it. Also has nevermore engine for reference.
+
+[Alrios Admin.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/Alrios%20Admin.rbxl) | Thursday, August 3, 2017, 10:33:50 PM | Unnamed | Nice reference code in here, bunch of laggy source code because I used my decompiler which created chunks of source code. Has some reference from other people's code, and as well as mine.
+
+[Alrios V2.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/Alrios%20V2_Modified.rbxl) | Thursday, August 3, 2017, 10:33:50 PM | Unnamed, Filtered | Has the beginnings of creating a new admin, Alrios V2 but never finished.
+
+[AntiExploitSystem.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/AntiExploitSystem.rbxl) | Thursday, August 3, 2017, 10:33:50 PM | Unnamed | Literally what the file name is, anti-exploit system but never finished and isn't available for usage. This is nuts but look at the creation date of this project and the one above, it's literally exactly the same and quite literally I checked the file creation and they were created at the exact same time.
+
+[BallGame.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/BallGame.rbxl) | Thursday, August 3, 2017, 10:33:50 PM | Unnamed | Literally not even worth that much, just a bunch of things when I tried retrieving roblox's core scripts and creating a core script myself. Ok all three places were created at the same time, lit.
+
+[Basepla222e2.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/Basepla222e2_Modified.rbxl) | Thursday, August 10, 2017, 9:16:00 PM | Unnamed | Just a place containing an admin script that was in development.
+
+[Baseplate.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/Baseplate.rbxl) | Thursday, August 3, 2017, 10:34:11 PM | Unnamed | Me remaking a pokemon game, using pokeapi.co's api to retreive all pokemon data and such then attempted to create battling system.
+
+[Baseplate4.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/Baseplate4.rbxl) | Saturday, December 9, 2017, 6:34:22 PM | Unnamed | A bunch of html scrapper, making use of it, just a mash of projects.
+
+[Baseplate5.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/Baseplate5.rbxl) | Sunday, November 19, 2017, 1:17:21 AM | Unnamed | It just has beginning code, i don't even know why this thing exists.
+
+[BaseplateTestAdmin.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/BaseplateTestAdmin_Modified.rbxl) | Friday, September 8, 2017, 6:17:12 PM | Unnamed, Filtered | Anti-exploit system, admin testing, admin settings and discord webhook api usage. Removed discord webhook api credentials.
+
+[ChemistryStuff.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/ChemistryStuff.rbxl) | Friday, November 17, 2017, 8:11:54 PM | Unnamed | Tried making something that would complete my Chemistry homework for me.
+
+[CompleteDecompilterV3.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/CompleteDecompilterV3.rbxl) | Monday, August 28, 2017, 6:49:37 AM | Unnamed | Roblox api instance data grabber, html scrapper, that's basically it.
+
+[CUSTOMPLACELOADER.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/CUSTOMPLACELOADER.rbxl) | Saturday, September 16, 2017, 1:55:59 AM | Unnamed | Map loading methods to reduce lag and improve optimization, non-usable.
