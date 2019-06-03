@@ -63,7 +63,18 @@ Link | Tags | Date Created | Description
 
 [PossibleRPGGame.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/PossibleRPGGame.rbxl) | Unnamed | Thursday, April 12, 2018, 12:46:58 AM | Looks like it was supposed to be a turn-based fantasy rpg game? But there's also a new encryption method encoded in Japanese character instead of english characters and a pokemon database of all the pokemon up to like 700+ and an html stripper to get all the pokemon data from pokeapi.co. Also has an anti-exploit system that's like definitely not finished.
 
+[Proxy.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/Proxy_Modified.rbxl) | Friday, January 26, 2018, 7:38:52 PM | Filtered, Unnamed | Was supposed to be an rpg game, has an actual weapon and animations along with an old anti-exploit system with a encryption that has rounding error issues. Oof.
 
+[SBTEST.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/SBTEST.rbxl) | Wednesday, May 30, 2018, 8:26:19 PM : Wednesday, May 30, 2018, 9:56:50 PM | Dead, Unnamed | Clicking the link will bring you to google, well this is because Github apparently only supports files lesser than 25 MB, and both the files, the autosave and the original are both like 30,723 KB and 46,546 KB. Probably because I attempted to make an infinitely perfect sphere or generated an image with a pixel area of like infinity or something, yeah I did some crazy stuff.
 
+[ScriptBuilder.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/ScriptBuilder_Modified.rbxl) | Monday, July 30, 2018, 8:12:17 PM | Unnamed, Filtered | I had to remove uhhh, my discord bot credentials and roblox api logging in credentials that included the password soo uhhh, yeah. What remains is environment binding in Lua and Eclipsis Data grabber code for some cheat.
 
+[Test.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/Test.rbxl) | Friday, April 13, 2018, 10:37:59 PM | Unnamed | Actually one of my more cooler projects, it's an attempt to make a character be blind but be able to see through the effects of sounds, tried to test vibrations and sound waves using a sphere having it's selection sphere instance expanded etc.
 
+[TestingPlace.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/TestingPlace.rbxl) | Wednesday, July 4, 2018, 9:16:44 AM | Unnamed | File place is too big, big sad. But isn't dead surprisingly, the file contains gifs in pixel instances, that's why the file size is like 27,361 KB. 
+
+[VAOS.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/VAOS_Modified.rbxl) | Saturday, April 28, 2018, 11:50:02 PM | Unnamed, Filtered | Actually tried to make an in-game operating system but got tired of it quickly.
+
+[visit.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/visit.rbxl) | Saturday, April 28, 2018, 11:50:02 PM | Unnamed | Place file is way too big.
+
+[Z2 Development.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/Z2%20Development_Modified.rbxl) | Tuesday, July 10, 2018, 7:27:48 AM | Unnamed, Filtered | Has server to client connection for exploits, uhhh. Also has gif loading, some cheat scripts, incomplete general cheat called Z2, standing for Zero Two from the anime, Darling in the Franxx. All past server-http urls, encryptions, passwords were removed.
