@@ -121,7 +121,7 @@ Link | Tags | Date Created | Description
 
 [Limit.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/Limit.rbxl) | Thursday, August 3, 2017, 10:33:50 PM | Unnamed | Contains an inventory and crafting system, also animations for characters. Seems like it was supposed to be a cool survival game. There's actually an instance supposed to simulate timestop, interesting. Effect looks very cool and inverted.
 
-!(Timestop Effect)[https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/Images/RobloxStudioBeta_2019-06-07_22-53-36.jpg]
+![Timestop Effect](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/Images/RobloxStudioBeta_2019-06-07_22-53-36.jpg)
 
 [LimitedsCheckerPlugin.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/LimitedsCheckerPlugin_Modified.rbxl) | Thursday, August 3, 2017, 10:33:50 PM | Unnamed, Modified | Looks like it contains, encoding, bit encoding, property grabber for every instance (for Decompiler V1 but incomplete), attempt to unobfuscate an obfuscation. Created a roblox api framework to retrieve property data. CompleteDecompiler is here (I think this is my perfected version, although the lists aren't updated by 6/7/2019). Removed my friend's admin script, didn't know if he wanted it shown to others so I'm keeping it away from view. Actually has code that I used my friend's framework on a place to be able to convert an image from a url into pixels and compile it into a full image. Has a basic inventory system, not finished it looks like. ASCII Encoding, api frameworks, plugin to be able to send notifications on new items that appear and are on sale, allows to *SNIP* good deals and items that'll make you a lot of money, plugin is created through CoreScripts. Lastly the place has my first ever discord "bot". The "bot" is actually a webhook that's able to communicate directly from roblox studio to discord. Responds to commands and is completed, at the time of making the bot I didn't know that a discord api framework was already available so I coded a bot as a webhook instead. Looks completed, has a ranking system, command system, sandboxing, allows for external code execution and so on, and it's one of the few projects I've made using CoreScripts and PluginScripts combined/intertwined (No server-scripts or client-scripts).
 
@@ -131,8 +131,8 @@ Link | Tags | Date Created | Description
 
 [NewPokemonGameTest.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/NewPokemonGameTest.rbxl) | Thursday, August 3, 2017, 10:33:50 PM | Unnamed | Name is what it suggests. Created a pokemon game, have an entire framework library of systems, calculations, and item data, along with a UI that has basic animations and transitions. Although not done, this was my 3rd recreation of my first pokemon game. Not completed, incomplete remote handling system. But also has a stone door that shakes while opening and closing. Pokemon also has a mouse hover feature to look at their stats.
 
-!(Mouse Hovering and shaking stone door)[https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/Images/2019-06-07_23-18-22.gif]
-!(UI Basic Transitioning)[https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/Images/2019-06-07_23-17-54.gif]
+![Mouse Hovering and shaking stone door](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/Images/2019-06-07_23-18-22.gif)
+![UI Basic Transitioning](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/Images/2019-06-07_23-17-54.gif)
 
 [PackyPlugin.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/PackyPlugin.rbxl) | Friday, September 22, 2017, 8:38:26 PM | Unnamed | Looks like the main updating place for the PackyPlugin with Blox Report, used to convert github repositories into roblox folders and code. Also has my alpha Library code for some reason.
 
