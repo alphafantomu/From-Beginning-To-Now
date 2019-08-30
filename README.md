@@ -138,13 +138,13 @@ Link | Tags | Date Created | Description
 
 [Place1.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/Place1_Modified.rbxl) | Thursday, August 3, 2017, 10:33:50 PM | Filtered | It contains a Parabola Adornment which I instanced into my place through core scripts. Also contains my first ever language I coded, which is a line-based language and a style-based language hybrid.
 
-![Output received when running through a lua interpreter](RobloxStudioBeta_2019-08-30_12-11-40.jpg)
+![Output received when running through a lua interpreter](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/Images/RobloxStudioBeta_2019-08-30_12-11-40.jpg)
 
 Actual documentation is inside the script, but there will be a seperate repository for projects like these.
 
 [PokemonGameSickLevel.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/PokemonGameSickLevel.rbxl) | Thursday, August 3, 2017, 10:33:51 PM | Unnamed | It's a second version using components of my first working pokemon battle system. But not finished, seems only the UI is the only work operable in this version. 
 
-![Gif of Battle UI](2019-08-30_12-25-49.gif)
+![Gif of Battle UI](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/Images/2019-08-30_12-25-49.gif)
 
 [ProjectZwei.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/ProjectZwei.rbxl) | Thursday, August 3, 2017, 10:33:51 PM | Unnamed | This was a testing place for an admin script called "Project Zwei". It was an environment-based admin script, which means that instead of writing variables like "BLAB = BLAB" we write them by indexing the actual environment itself to create variables. I thought this was very interesting way of approaching things. Also has an admin called Solar in there, most likely used as reference.
 
@@ -156,12 +156,12 @@ Actual documentation is inside the script, but there will be a seperate reposito
 
 [Virtuous Treaty.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/Virtuous%20Treaty.rbxl) | Thursday, August 3, 2017, 10:33:51 PM | Unnamed | Virtuous Treaty is a Nier Automata sword, I recreated the model inside the game engine and then animated them, only works on R6 characters. 
 
-![Virtuous Treaty Model](RobloxStudioBeta_2019-08-30_13-07-25.jpg)
+![Virtuous Treaty Model](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/Images/RobloxStudioBeta_2019-08-30_13-07-25.jpg)
 
 [wadawdawdaw.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/wadawdawdaw.rbxl) | Thursday, August 3, 2017, 10:33:51 PM | Unnamed | This was a multi-layered attempt to protect a script. It uses bytecode encryption, nolicaik's standard script encryption and a bytecode obfuscator to protect the source code of a script.
 
 [weaponTest.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/weaponTest.rbxl) | Thursday, August 3, 2017, 10:33:51 PM | Unnamed | This was a small weapon test place, It actually has two weapons I was developing, one was a sword that could cut anything and the other was just red lightning around the player.
 
-![Picture of Acnolypse(Lightning) and Zangetsu(The Literally Infinitely cutting blade)](2019-08-30_13-48-54.gif)
+![Picture of Acnolypse(Lightning) and Zangetsu(The Literally Infinitely cutting blade)](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/Images/2019-08-30_13-48-54.gif)
 
 [XML BUILDER2.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/XML%20BUILDER2.rbxl) | Wednesday, September 27, 2017, 7:38:21 PM | Unnamed | Converts the styling of xml similar to html (except xml is for objects) into arrays. Pretty cool.
