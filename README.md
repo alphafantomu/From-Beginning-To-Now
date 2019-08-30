@@ -136,4 +136,32 @@ Link | Tags | Date Created | Description
 
 [PackyPlugin.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/PackyPlugin.rbxl) | Friday, September 22, 2017, 8:38:26 PM | Unnamed | Looks like the main updating place for the PackyPlugin with Blox Report, used to convert github repositories into roblox folders and code. Also has my alpha Library code for some reason.
 
+[Place1.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/Place1_Modified.rbxl) | Thursday, August 3, 2017, 10:33:50 PM | Filtered | It contains a Parabola Adornment which I instanced into my place through core scripts. Also contains my first ever language I coded, which is a line-based language and a style-based language hybrid.
 
+![Output received when running through a lua interpreter](RobloxStudioBeta_2019-08-30_12-11-40.jpg)
+
+Actual documentation is inside the script, but there will be a seperate repository for projects like these.
+
+[PokemonGameSickLevel.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/PokemonGameSickLevel.rbxl) | Thursday, August 3, 2017, 10:33:51 PM | Unnamed | It's a second version using components of my first working pokemon battle system. But not finished, seems only the UI is the only work operable in this version. 
+
+![Gif of Battle UI](2019-08-30_12-25-49.gif)
+
+[ProjectZwei.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/ProjectZwei.rbxl) | Thursday, August 3, 2017, 10:33:51 PM | Unnamed | This was a testing place for an admin script called "Project Zwei". It was an environment-based admin script, which means that instead of writing variables like "BLAB = BLAB" we write them by indexing the actual environment itself to create variables. I thought this was very interesting way of approaching things. Also has an admin called Solar in there, most likely used as reference.
+
+[RPGCreation.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RPGCreation.rbxl) | Saturday, September 16, 2017, 6:41:03 PM | Unnamed | This was most likely my first ever attempt at making a secure system to prevent exploits from interfering with client-side gameplay. It uses concept of using keys, intentionally I wanted this to both be flexible and secure.
+
+[scriptbuilderGM emergency copy.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/scriptbuilderGM%20emergency%20copy.rbxl) | Tuesday, January 2, 2018, 6:55:37 AM | Unnamed | My actual first attempt at creating a Script Builder after the loadstring patch on client. At this point I didn't know anything about making https requests so I attempted to find a solution without it.
+
+[sweet example pokemon game made by yours truly.rbxl](hhttps://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/sweet%20example%20pokemon%20game%20made%20by%20yours%20truly.rbxl) | Thursday, August 3, 2017, 10:33:51 PM | Unnamed | An unbelievably old pokemon game, it was originally published in the roblox platform, this is only a desktop version of the place. Nice UI but functionality basically dead.
+
+[Virtuous Treaty.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/Virtuous%20Treaty.rbxl) | Thursday, August 3, 2017, 10:33:51 PM | Unnamed | Virtuous Treaty is a Nier Automata sword, I recreated the model inside the game engine and then animated them, only works on R6 characters. 
+
+![Virtuous Treaty Model](RobloxStudioBeta_2019-08-30_13-07-25.jpg)
+
+[wadawdawdaw.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/wadawdawdaw.rbxl) | Thursday, August 3, 2017, 10:33:51 PM | Unnamed | This was a multi-layered attempt to protect a script. It uses bytecode encryption, nolicaik's standard script encryption and a bytecode obfuscator to protect the source code of a script.
+
+[weaponTest.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/weaponTest.rbxl) | Thursday, August 3, 2017, 10:33:51 PM | Unnamed | This was a small weapon test place, It actually has two weapons I was developing, one was a sword that could cut anything and the other was just red lightning around the player.
+
+![Picture of Acnolypse(Lightning) and Zangetsu(The Literally Infinitely cutting blade)](2019-08-30_13-48-54.gif)
+
+[XML BUILDER2.rbxl](https://github.com/alphafantomu/From-Beginning-To-Now/blob/master/RBXL%20Places/XML%20BUILDER2.rbxl) | Wednesday, September 27, 2017, 7:38:21 PM | Unnamed | Converts the styling of xml similar to html (except xml is for objects) into arrays. Pretty cool.
