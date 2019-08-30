@@ -1,6 +1,8 @@
 # From-Beginning-To-Now
 This repository will attempt to include all the code I've ever worked on from as far as I can.
 
+***This will only include desktop projects, not published or individual scripts/project files***
+
 ## Notice
 Due to fear of dangerous code that is probably somewhere on my computer that I coded, there will be some tags attached to some of the files.
 ### Places
